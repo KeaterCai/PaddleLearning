@@ -1,1 +1,1 @@
-# The First Example of MT: Price_Predict
+# The First Example of Machine Learning: Price_Predict
