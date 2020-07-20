@@ -1,6 +1,6 @@
 # ResNet
 
-### description
+### Description
 
 ResNet is a classic network structure or backbone to extract the features of a image, in order to classify the image or do further operations.
 Here this network was written in the framework PaddlePaddle(dygraph mode), which is so similar with Pytorch, but is easy to deploy the Model.
@@ -14,3 +14,11 @@ Here this network was written in the framework PaddlePaddle(dygraph mode), which
 ***mainly inspired by*** 
 
 [https://github.com/pytorch/vision/blob/master/torchvision/models/resnet.py](https://github.com/pytorch/vision/blob/master/torchvision/models/resnet.py)
+
+### Detail
+
+try to run the code online -> [click here](https://aistudio.baidu.com/aistudio/projectdetail/618844?shared=1)
+
+This dir contains also some code to preprocess the image
+
+*My poor English :)*
