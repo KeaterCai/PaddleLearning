@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# the first example of my machine learing course
 # coding: utf-8
 
 # In[1]:
